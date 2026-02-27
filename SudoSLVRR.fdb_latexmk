@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1772166004.75557 "c:/Users/renom/OneDrive/Desktop/Thesis/Conference-Paper/SudoSLVRR.tex" "SudoSLVRR.pdf" "SudoSLVRR" 1772166005.23657 0
+["pdflatex"] 1772173843.45808 "c:/Users/renom/OneDrive/Desktop/Thesis/Conference-Paper/SudoSLVRR.tex" "SudoSLVRR.pdf" "SudoSLVRR" 1772173843.96288 0
   "C:/Users/renom/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772148710 80937 91001db6d4ae332437b4b739862cda02 ""
   "C:/Users/renom/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1772148716 22504 80a65308f5cf7d9bf4dd68a48b6896e4 ""
   "C:/Users/renom/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1772148713 25420 220078892fa162e82c5291696d51db3a ""
@@ -58,12 +58,12 @@
   "C:/Users/renom/AppData/Local/Programs/MiKTeX/tex/latex/llncs/llncs.cls" 1741086508 43405 543b73320c367b0229b3cdfcddaedc46 ""
   "C:/Users/renom/AppData/Local/Programs/MiKTeX/tex/latex/oberdiek/aliascnt.sty" 1722085538 2652 813491e2bc95c1dafbb39cd7c54b380b ""
   "C:/Users/renom/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1761901070 33142 efe8f4750fc02524935e7423b4bdef69 ""
-  "SudoSLVRR.aux" 1772166005 1944 31f723bcd7e0c041a850312b2d7bc0a6 "pdflatex"
-  "SudoSLVRR.tex" 1772166003 8446 e4cefbbcdc598e7151c1afb2491cf0ae ""
-  "c:/Users/renom/OneDrive/Desktop/Thesis/Conference-Paper/SudoSLVRR.tex" 1772166003 8446 e4cefbbcdc598e7151c1afb2491cf0ae ""
+  "SudoSLVRR.aux" 1772173843 2180 2ae2447ddfe46aa894ae41eef5035f4d "pdflatex"
+  "SudoSLVRR.tex" 1772166016 8446 e4cefbbcdc598e7151c1afb2491cf0ae ""
+  "c:/Users/renom/OneDrive/Desktop/Thesis/Conference-Paper/SudoSLVRR.tex" 1772166016 8446 e4cefbbcdc598e7151c1afb2491cf0ae ""
   "sections/conclusions.tex" 1772165814 41 8434e209b1dcc0b4de0a31d8e2111518 ""
   "sections/introduction.tex" 1772165808 2600 b2b02ae409ecfc636d5b8f0beea9b62f ""
-  "sections/related_works.tex" 1772165810 27 33aea0e2361328ba46f1d47c5b9cfaa0 ""
+  "sections/related_works.tex" 1772173843 6003 58625d1f10c1d4077b5d806669e0149f ""
   "sections/results_discussion.tex" 1772165813 36 0e84307aa37307af897fd47ba6151c1f ""
   "sections/sudoslvr_algorithm.tex" 1772165811 79 5a32175939ff9660bc73aede6efa3c54 ""
   (generated)
